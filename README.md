@@ -1,1 +1,2 @@
 Bem-vindo! Este projeto é a evolução da nossa jornada do 2º trimestre. Utilizando a estrutura que construímos anteriormente como base, adicionamos novas funcionalidades como sorteio aleatório de personagens, código modularizado e uma experiência interativa completa sobre o futuro da Inteligência Artificial.
+https://7vagner.github.io/IA/
